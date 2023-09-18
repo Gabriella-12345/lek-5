@@ -1,0 +1,28 @@
+body{
+    background-color:#35424a;
+}
+-----------
+.branding{
+
+display: block;
+}
+
+#webb{
+    color: tomato;
+}
+
+#webb1{
+    color:white;
+}
+-----------
+.nav{
+    float: right;
+    margin-top: 10px;
+    
+}
+#vit{
+    color: white;
+}
+#orange{
+    color: tomato;
+}
