@@ -1,28 +1,7 @@
 body{
-    background-color:#35424a;
-}
------------
-.branding{
-
-display: block;
-}
-
-#webb{
-    color: tomato;
-}
-
-#webb1{
-    color:white;
-}
------------
-.nav{
-    float: right;
-    margin-top: 10px;
+    background-color:white;
     
 }
-#vit{
-    color: white;
-}
-#orange{
-    color: tomato;
+.stora_div{
+border:solid #D6001C 2px;
 }
