@@ -1,7 +1,35 @@
-body{
-    background-color:white;
-    
-}
+/* body{ */
+    /* background-image: url(./img/snow_winter_trees.jpg); */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+/* } */
 .stora_div{
-border:solid #D6001C 2px;
+border: solid #D6001C 10px;
+
+
+
+}
+.lilla_div{
+border: soild #D6001C 10px;
+margin-left: 8%;
+margin-right: 8%;
+
+
+}
+.swe{
+    border: soild black 15px;
+    text-align: left;
+
+
+}
+.SMHI{
+    border: soild black 15px;
+    text-align: center;
+
+}
+.RM{
+    border: soild black 15px;
+    text-align: right;
+    margin-right: 10%;
 }
